@@ -1,0 +1,1 @@
+words = ['array', 'string', 'water', 'python', 'cat', 'dog', 'object', 'back', 'front', 'get', 'best', 'job', 'nice', 'help','table','short','monday']
